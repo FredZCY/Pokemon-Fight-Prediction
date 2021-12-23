@@ -27,7 +27,7 @@ We also use Pokemon- Weedle's Cave Dataset (https://www.kaggle.com/terminus7/pok
 ## Best three pokemons based on calculated weighted ability:
 <img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/best.png"/>
 <center class="half">
-    <img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon1.png" width="200"/><img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon2.png" width="200"/><img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon3.png" width="200"/>
+    <img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon1.png" width="300"/><img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon2.png" width="300"/><img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon3.png" width="300"/>
 </center>
 
 
