@@ -20,7 +20,14 @@ We also use Pokemon- Weedle's Cave Dataset (https://www.kaggle.com/terminus7/pok
 
 ## Prediction results:
 <img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/models.png"/>
+
 ## Feature Importances:
+<img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/importances.png"/>
 
 ## Best three pokemons based on calculated weighted ability:
+<img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/best.png"/>
+<img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon1.png"/>
+<img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon2.png"/>
+<img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon3.png"/>
+
 
