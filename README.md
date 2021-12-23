@@ -17,3 +17,10 @@ We choose Pokemon Dataset (https://www.kaggle.com/abcsds/pokemon) to be our data
 - Legendary (special, rare pokemon, usually with high total)
 
 We also use Pokemon- Weedle's Cave Dataset (https://www.kaggle.com/terminus7/pokemon-challenge) which contains the results of previous combats, and the combination of those two datasets help develop Machine Learning models able to predict the result of future pokemon combats.
+
+## Prediction results:
+<img src="https://github.com/FredZCY/Classroom-Human-Action-Recognition/blob/main/testing%20image.png" width="500" height="300"/>
+## Feature Importances:
+
+## Best three pokemons based on calculated weighted ability:
+
