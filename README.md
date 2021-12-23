@@ -30,5 +30,22 @@ We also use Pokemon- Weedle's Cave Dataset (https://www.kaggle.com/terminus7/pok
     <img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon1.png" width="300"/><img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon2.png" width="300"/><img src="https://github.com/FredZCY/Pokemon_Fight_Prediction/blob/47df184d17ecb6af32f8cbfa5c3f2869f9ae1298/images/Pokemon3.png" width="300"/>
 </center>
 
+## Contact the Author  
 
+***Special thanks*** :pray: for the advice from  
+
+*[Dr. Christian Kuemmerle (https://pages.jh.edu/kuemmerle/) & Dr. Jinchao Feng (https://www.linkedin.com/in/jinchao-feng-01660870/)] (Johns Hopkins University)*  
+
+also for the cooperation and joint efforts from the co-authors (Margaux Tian, Shuangning Yang, Yuchen Yao and Qixin Wang) of this project.
+
+If you got any enquiries or suggestions, I'm all ears :sunglasses:  
+
+- **Institution:**  Johns Hopkins University  :mortar_board: Graduate 
+- **Personal E-mail:** zhangchenyu555@gmail.com   
+- **Academic E-mail:** czhan146@jhu.edu 
+- **Insterested Area:**
+
+  - [ ] Machine Learning   
+  - [ ] Data Analysis
+  - [ ] Business Analytics
 
